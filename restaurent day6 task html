@@ -1,0 +1,23 @@
+<html>
+    <body>
+        <center><h1>Restaurant</h1></center>
+       <center> <img src="./img/Meraki.jpg" width="400"></center>
+        <h3>Menu</h3>
+        
+        <center><img src="./img/breakfast.jpg" alt="breakfast" width="200"></center>
+        <p><b>Breakfast </b>Rava Upma, Poha, Semiya Upma, Rava Idli, Besan Chilla, Suji Appe, Moong Dal Chilla, Rava Dosa and Omelette. These Traditional Healthy Breakfasts require preparing ahead like soaking & making the batter. These are high in protein. If the batter is ready you can make these under 30 mins.</p>
+        <center><img src="./img/ikea.jpg" alt="ikea breakfast" width="200"></center>
+        <p><b>Ikea breakfast</b>We love to order IKEA salmon fillets at IKEA Restaurant and then get some frozen packages to-go at the end of our visit at IKEA grocery. Our recipe is simple, with a lemon butter</p>
+        <center><img src="./img/dchapati plate royalty.jpg" width="200"></center>
+        <p>
+            <b>chapati plate royalty</b> Chapati Plate stock images in HD and millions of other royalty-free stock photos, illustrations and vectors in the Shutterstock collection. Thousands of new, high-quality pictures added every day
+        </p>
+        <center><img src="./img/Indian-Rice-Recipes-.jpg" width="200"><p><b>Rice Recipes</b>There are a lot of dishes which can be made with precooked plain, meaning you have some already cooked rice and then you want to transform it to a flavorful dish by simply tempering or seasoning. These dishes will only take 10 mins for you to temper – Lemon Rice, Coconut Rice, South Indian Curd Rice, Thakkali Sadam, tawa pulao, Lemon Mint Rice </p>
+        <img src="./img/chicken-biryani-generic.webp" width="200"></center>
+        <p><b>chicken-biryani-generic</b>Published: February 15, 2021. Sharing is caring! Jump to Recipe. This is my favourite way to prepare chicken biryani. I have made my share of biryanis over the years</p>
+       <center> <img src="./img/smoked  chicken mandi.jpg" width="200"><center></center>
+        <p>
+          <b> Chicken mandi </b>Learn how to make chicken mandi, a traditional and popular Arabian dish where chicken, rice, and spices are carefully cooked to create a delicious aromatic meal.
+        </p>
+    </body>
+    </html>
